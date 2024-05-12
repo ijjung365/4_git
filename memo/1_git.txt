@@ -33,6 +33,11 @@ STEP
 	7-2. git add . // 모든파일 스테이징
 	8. git commit -m "설명" // 설명으로 커밋
 	8-1. git commit --amend // 마지막 커밋 변경(실행하지말기)
+	9. github에서 repository 생성
+	10. repository url 복사
+	11. git bash 에서 git remote add origin (repository url) // 로컬스토리지와 연결 
+	11-1. git remote -v // 연결확인
+	12. git push origin main // 로컬에서 repository로 넘기기 
 	
 
 
